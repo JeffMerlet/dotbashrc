@@ -35,7 +35,8 @@ alias lls='ls -lathS'
 alias rmr='rm -rf'
 
 # Git 
-alias gpom='git push origin master'
+alias gpush='git push origin master'
+alias gpull='git pull origin master'
 alias gm='git commit'
 alias gs='git status'
 alias ga='git add'
